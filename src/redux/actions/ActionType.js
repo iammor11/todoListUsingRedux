@@ -1,0 +1,6 @@
+export const ADD_COUNT = "ADD_COUNT"
+export const SUBSTRACT_COUNT = "SUBSTRACT_COUNT"
+export const ADD_TODO = "ADD_TODO"
+export const DEL_TODO = "DEL_TODO"
+export const COM_TODO = "COM_TODO"
+export const ADD_NO = "ADD_NO"
